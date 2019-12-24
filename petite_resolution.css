@@ -1,0 +1,35 @@
+@media screen and (max-width: 1280px)
+{
+	p
+	{
+		font-size:1em;
+	}
+
+	h1
+	{
+		font-size: 1.185em;
+	}
+
+	img
+	{
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 1720px)
+{
+	p
+	{
+		font-size:1.5em;
+	}
+
+	h1
+	{
+		font-size:0.85em;
+	}
+
+	img
+	{
+		width:90%;
+	}
+}

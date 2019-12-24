@@ -1,0 +1,145 @@
+h1
+{
+	color: grey;
+	font-family: "Didact Gothic","Chilanka","sans-serif";
+}
+
+p
+{
+	color: grey;
+	font-family:  "Didact Gothic","Chilanka","sans-serif";
+	font-size: 1.3em; 
+}
+
+h2
+{
+	color: grey;
+	font-family: "Didact Gothic","Chilanka","sans-serif";
+}
+
+h3
+{
+	color: grey;
+	font-family: "Didact Gothic","Chilanka","sans-serif";
+}
+
+h4
+{
+	color: grey;
+	font-family: "Didact Gothic","Chilanka","sans-serif";
+}
+
+h5
+{
+	color: grey;
+	font-family: "Didact Gothic","Chilanka","sans-serif";
+}
+
+h6
+{
+	color: grey;
+	font-family: "Didact Gothic","Chilanka","sans-serif";
+}
+
+.miniature
+{
+	border: 6px grey outset;
+	box-shadow: 2px 2px 60px black;
+	text-shadow: 3px 3px 30px black;
+	text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+
+}
+
+body
+{
+	background-image: url('images/Fond.png');
+}
+
+a:active
+{
+    background-color: gray;
+}
+
+a:visited
+{
+    color: #AAA;/* Appliquer une couleur grise */
+}
+
+a:hover /* Apparence au survol des liens */
+{
+   text-decoration: underline;
+   color: gray
+}
+
+.emulateur { border: 1px solid #ccc; padding:10px; background-color:grey; }
+
+li
+{
+	color: grey;
+	font-family:  "Didact Gothic","Chilanka","sans-serif";
+	font-size: 1.3em; 
+}
+
+@font-face
+{
+	font-family: 'BallparkWeiner';
+	src: url('polices/ballpark.eot');
+	src: url('polices/ballpark.eot?#iefix') format('embedded-opentype'),
+	url('polices/ballpark.woff') format('woff'),
+	url('polices/ballpark.ttf') format('truetype'),
+	url('polices/ballpark.svg#BallparkWeiner') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: 'Dayrom';
+	src: url('polices/dayrom.eot');
+	src: url('polices/dayrom.eot?#iefix') format('embedded-opentype'),
+	url('polices/dayrom.woff') format('woff'),
+	url('polices/dayrom.ttf') format('truetype'),
+	url('polices/dayrom.svg#Dayrom') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.h1special
+{
+	font-family: "Didact Gothic","Chilanka","sans-serif"
+}
+
+th
+{
+	font-family: "Didact Gothic","Chilanka","sans-serif";
+	color: gray;
+}
+
+td
+{
+	font-family: "Didact Gothic","Chilanka","sans-serif";
+	color: gray;
+	border: 1px gray solid;
+}
+
+table
+{
+	border-collapse: collapse;
+}
+
+.astubiencompris
+{
+	border: 6px grey dashed; 
+}
+
+.arapetissire
+{
+	font-size: 0.9em;
+}
+
+img
+{
+	border: 1px gray solid;
+}
